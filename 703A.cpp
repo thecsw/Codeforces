@@ -18,7 +18,7 @@ int main() {
             cm=cm+1;
         }
         if (c==m) {
-           
+     
         }
     }
     if (cm>mm) {
