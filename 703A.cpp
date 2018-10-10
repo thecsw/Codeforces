@@ -13,17 +13,17 @@ int main() {
         cin >> m >> c;
         if (m>c) {
             mm=mm+1;
-        } 
+        }
         if (c>m) {
             cm=cm+1;
         }
         if (c==m) {
-            
+           
         }
     }
     if (cm>mm) {
         cout << "Chris" << endl;
-    } 
+    }
     if (cm<mm) {
         cout << "Mishka" << endl;
     }

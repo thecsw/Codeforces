@@ -11,8 +11,8 @@ int main() {
 	int k, i, j, n;
 	k = i = j = 0;
 	cin >> k;
-	for (i = 1; i < k; i++) 
-		for (j = 1; j < k; j++) 
+	for (i = 1; i < k; i++)
+		for (j = 1; j < k; j++)
 			cout << con(i * j, k) << ' ';		
 		cout << ' ' << endl;
 	return 0;

@@ -2,7 +2,7 @@
 int main() {
 	int ch, nech, chc;
 	scanf("%d%d", &ch, &nech);
-	if (ch == nech & ch == 0) { 
+	if (ch == nech & ch == 0) {
 		printf("NO");
 		return 0;
 	}

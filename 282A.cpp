@@ -5,7 +5,8 @@
 
 using namespace std;
 
-int main() {
+int main()
+{
 	string operation[150];
 	int x, n, k;
 	x = 0;
